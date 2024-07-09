@@ -1,4 +1,4 @@
-name: amazon_rainforest_model
+name: essa_model
 channels:
   - defaults
   - conda-forge

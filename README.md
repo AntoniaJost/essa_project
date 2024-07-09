@@ -30,7 +30,7 @@ cd essa_project
 
 ```bash
 conda env create -f environment.yml
-conda activate amazon_rainforest_model
+conda activate essa_model
 ```
 
 ## Usage

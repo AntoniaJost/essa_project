@@ -16,6 +16,7 @@ This project contains the scripts used for the Tutorial Project about Resilience
 ├── 3d_amazon_rainforest_model.py                           # Python script with model functions and Dash app
 └── requirements.txt                                        # Python dependencies
 ```
+*<u>Small Annotation:</u> We are currently still missing the permit from Hannah to upload the input files here. To run the code, therefore please contact the authors (see [below](#contributors)) and we will provide you the required files.*
 
 ## Installation
 
